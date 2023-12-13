@@ -1,0 +1,4 @@
+colorama
+deep_translator
+tabulate
+babel.dates
